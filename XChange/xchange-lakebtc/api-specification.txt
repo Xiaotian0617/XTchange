@@ -1,0 +1,4 @@
+Lake BTC Exchange API specification
+================================
+
+https://www.lakebtc.com/s/api_v2

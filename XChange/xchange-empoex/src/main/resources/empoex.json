@@ -1,0 +1,11 @@
+{
+  "currency_pairs": {
+    "BTC/LTC": {
+      "price_scale": 8
+    },
+    "BTC/DOGE": {
+      "price_scale": 8
+    }
+  },
+  "currencies": {}
+}
